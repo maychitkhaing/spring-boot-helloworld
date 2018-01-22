@@ -11,7 +11,10 @@
 [root]/spring-boot-helloworld> gedit pom.xml [write the pom file]
 [root]/spring-boot-helloworld> mkdir -p src/main/java/hello
 [root]/spring-boot-helloworld> { write your code inside src/main/java/hello }
-
+[root]/spring-boot-helloworld> git add .
+[root]/spring-boot-helloworld> git commit -m "Codes added"
+[root]/spring-boot-helloworld> git push -u origin master
+[root]/spring-boot-helloworld> git push -u origin master
 
 
 
